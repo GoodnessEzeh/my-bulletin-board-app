@@ -1,10 +1,13 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bulletin Board App
 
 ## App UI
 
 ![Capture+_2021-12-29-18-51-05](https://user-images.githubusercontent.com/88127727/147649668-c8222e5b-67be-4158-8bf6-6edfd33584c9.png)
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Available Scripts
 
 In the project directory, you can run:
